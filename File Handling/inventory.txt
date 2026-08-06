@@ -1,0 +1,35 @@
+Product 1
+P001
+Milk
+15
+Fresh Dairy Inc.
+85.00
+
+Product 2
+P002
+Bread
+18
+Golden Bakery
+45.00
+
+Product 3
+P003
+Coffee
+20
+Cafe Beans Supplier
+350.00
+
+Product 4
+P004
+Rice
+8
+Golden Grain Corp.
+1200.00
+
+Product 5
+P005
+Sugar
+12
+Sweet Crystal Trading
+70.00
+
